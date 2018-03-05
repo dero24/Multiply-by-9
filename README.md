@@ -1,3 +1,2 @@
-# Hello-World
+# Multiply any number by 9 and always return a 9
 
-Hello! Im Robby DeRosa and I love Python and am excited to learn Django. Wooo!!!
